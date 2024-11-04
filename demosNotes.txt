@@ -11,6 +11,12 @@ Timings: 7.30-7.35  ----- 8.50-8.55
 imagine you have tons of money, u hve to solve a problem , what ? how?
 
 ----------------------------------------------------------
+prblm: In a website tons of products are there, there is variation of same products in prices
+best seller tags, based on history ,rating,filters,feedback
+
+
+
+
 prbelm: we get most important mails to gmail but we hardly opens them so that there is a chance we miss them
 solutions: alerts to mobile in advance we can watsapp,sms, SOS,
 adding alerts to calender,
@@ -98,59 +104,6 @@ code editor: download vscode
      2. goto the folder --> rightclick --> show more options --->open with vscode
     3. goto the folder  --> select and clear path -->cmd enter ---> type in cmd , code .
 HTML:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1. what is  internet?  
      connection of network / network of networks
