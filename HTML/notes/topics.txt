@@ -7,3 +7,4 @@ HTML
   -- formatting tags
   -- lists
   -- tables
+  -- semantic,block vs inline
