@@ -1,0 +1,19 @@
+Forms: Form is used to collect user's data/ information from the data
+Eg: login, registration, address,forgot password, job post, application,attendance,feedback,contact, survey,ticket booking
+
+forms uses 'form' element to include all forms inputs
+input boxes/fields are created using input tag. input tag is a self closing tag
+Every input tag will have some properties:
+
+i.type: It is used to define different types of inputs
+Eg:"text","number" etc.,
+ii. placeholder: it is used to keep some dummy text on input until user enters actual value. it makes user understands what to enter easily
+iii. id: To uniquely identify the input, we use id. we can also use label tag for labelling and connects label's for with inputs id so that label can activate input
+eg: <label for="inp1">name:
+</label>
+<input type="text" id="inp1">
+iv. name: name is used to store the value with certain name while sending it to another file(form submission)
+v. value: Every value user enters in input is stored as value. we can explicitly enter our own prefilled value
+
+
+
